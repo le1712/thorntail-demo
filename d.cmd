@@ -1,0 +1,1 @@
+java -Dswarm.http.port=8180 -jar target/demo-thorntail.jar
